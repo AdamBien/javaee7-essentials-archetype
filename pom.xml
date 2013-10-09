@@ -87,14 +87,12 @@
             </plugin>
         </plugins>
     </build>
-    <!--
     <scm>
-        <connection>scm:git:git@github.com:AdamBien/igniter.fx.git</connection>
-        <url>scm:git:git@github.com:AdamBien/igniter.fx.git</url>
-        <developerConnection>scm:git:git@github.com:AdamBien/igniter.fx.git</developerConnection>
+        <connection>scm:git:git@github.com:AdamBien/javaee7-essentials-archetype.git</connection>
+        <url>scm:git:git@github.com:AdamBien/javaee7-essentials-archetype.git</url>
+        <developerConnection>scm:git:git@github.com:AdamBien/javaee7-essentials-archetype.git</developerConnection>
         <tag>HEAD</tag>
     </scm>
-    -->
     <properties>
         <maven.compiler.source>1.7</maven.compiler.source>
         <maven.compiler.target>1.7</maven.compiler.target>
