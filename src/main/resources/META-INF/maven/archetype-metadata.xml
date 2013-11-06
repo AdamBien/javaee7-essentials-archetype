@@ -29,6 +29,21 @@ limitations under the License.
                 <include>**/*.java</include>
             </includes>
         </fileSet>
+        <fileSet filtered="true" packaged="false" encoding="UTF-8">
+            <directory>src/main/resources</directory>
+            <includes>
+                <include>**/*.xml</include>
+                <include>**/*.properties</include>
+            </includes>
+        </fileSet>
+        <fileSet filtered="true" packaged="false" encoding="UTF-8">
+            <directory>src/main/webapp</directory>
+            <includes>
+                <include>**/*.xml</include>
+                <include>**/*.properties</include>
+            </includes>
+        </fileSet>
+
         <fileSet filtered="false" packaged="false" encoding="UTF-8">
             <directory></directory>
             <includes>
