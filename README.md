@@ -1,3 +1,5 @@
+Consider switching to [Java EE 8 Essentials Archetype](https://github.com/AdamBien/javaee8-essentials-archetype)
+
 A Plain and Clean JavaEE 7 Maven Archetype
 =====================
 
